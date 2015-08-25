@@ -1,0 +1,12 @@
+[
+ {
+   "repository": "Radium_hammerhead",
+   "target_path": "kernel/lge/hammerhead",
+   "remote" : "tr",
+   "revision": "5.1"
+ },
+ {
+   "repository": "android_device_qcom_common",
+   "target_path": "device/qcom/common"
+ }
+]
