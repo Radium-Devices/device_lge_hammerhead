@@ -23,3 +23,5 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME=hammerhead \
     BUILD_FINGERPRINT=google/hammerhead/hammerhead:5.1.1/LMY48M/2167285:user/release-keys \
     PRIVATE_BUILD_DESC="hammerhead-user 5.1.1 LMY48M 2167285 release-keys"
+
+PRODUCT_BUILD_PROP_OVERRIDES += DEVICE_MAINTAINERS="akhilnarang"
